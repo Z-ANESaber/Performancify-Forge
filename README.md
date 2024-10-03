@@ -1,2 +1,4 @@
 # Performancify-Forge
-A well-researched Modpack for the utmost performance using Forge.
+This repo is for creating issues and contributing.
+
+Installation can be found on Modrinth.
