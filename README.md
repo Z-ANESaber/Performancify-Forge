@@ -1,7 +1,6 @@
-![Modpack logo](https://cdn.modrinth.com/data/cached_images/29dc9c75ac50df68e233c2e35dde6c53cee07ea3.png)
-<br>
-![forgeBadge](https://img.shields.io/badge/mod%20loader-forge-1976d2?style=flat-square)
-![clientBoth](https://img.shields.io/badge/environment-both-4caf50?style=flat-square)
+![Modpack logo](https://cdn.modrinth.com/data/cached_images/29dc9c75ac50df68e233c2e35dde6c53cee07ea3.png) <br>
+![available for neoforge badge](https://cdn.modrinth.com/data/cached_images/9335a2d04f672a66b68bab3d41436307dadc8eed.png)
+![available for forge badge](https://cdn.modrinth.com/data/cached_images/4174a1078c19116846ecb951923ec4907e1af885.png)
 
 ## Why would you use Forge for a performance pack when Fabric is way better at that?
 This pack is meant to be used as a base for adding your own mods on top of it and lots of bigger mods don't run on Fabric. If you don't plan to add any other mods to it and instead opt for a vanilla-experience I would suggest using a Fabric Modpack like [Performium](https://modrinth.com/modpack/performium-was-taken).
