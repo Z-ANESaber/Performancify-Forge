@@ -1,21 +1,17 @@
 <p align="center">
-  <img width="960" height="100" src="https://cdn.modrinth.com/data/cached_images/29dc9c75ac50df68e233c2e35dde6c53cee07ea3.png">
+  <img width="960" height="300" src="https://cdn.modrinth.com/data/cached_images/29dc9c75ac50df68e233c2e35dde6c53cee07ea3.png">
 </p>
 
 
 <p align="center">
-  <img width="460" height="150" src="https://cdn.modrinth.com/data/cached_images/9854f51ded6b58641fc17de8498e3c9df8af224c.png">
+  <img width="460" height="300" src="https://cdn.modrinth.com/data/cached_images/9854f51ded6b58641fc17de8498e3c9df8af224c.png">
 </p>
 
 
 <p align="center">
-  <img width="260" height="80" src="https://cdn.modrinth.com/data/cached_images/9335a2d04f672a66b68bab3d41436307dadc8eed.png">
-  <img width="260" height="80" src="https://cdn.modrinth.com/data/cached_images/4174a1078c19116846ecb951923ec4907e1af885.png">
+  <img width="260" height="100" src="https://cdn.modrinth.com/data/cached_images/9335a2d04f672a66b68bab3d41436307dadc8eed.png">
+  <img width="260" height="100" src="https://cdn.modrinth.com/data/cached_images/4174a1078c19116846ecb951923ec4907e1af885.png">
 </p>
-
-# Downloads: <br>
-Modrinth: https://modrinth.com/modpack/performancify-forge <br>
-CurseForge: https://www.curseforge.com/minecraft/modpacks/performancify-neo-forge
 
 
 ## Why would you use Forge for a performance pack when Fabric is way better at that?
@@ -49,14 +45,12 @@ This pack is meant to be used as a base for adding your own mods on top of it an
 - [Modernfix](https://modrinth.com/mod/modernfix) (Overall performance enhancer.)
 - [FerriteCore](https://modrinth.com/mod/ferrite-core) (Reduces memory/RAM usage.)
 - [Noisium](https://modrinth.com/mod/noisium) (Optimises worldgen performance)
-
-
-### Library/Dependency Mods:
-- [Sodium Extra](https://modrinth.com/mod/sodium-extra) (Extra options for Sodium.)
-- [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) (Even more options for Sodium)
-- [Konkrete](https://modrinth.com/mod/konkrete)
-- [Cloth Config API](https://modrinth.com/mod/cloth-config)
-- [Kotlin for Forge](https://modrinth.com/mod/kotlin-for-forge)
+- [BadOptimizations](https://modrinth.com/mod/badoptimizations) (Overall optimizations mod for things other than rendering)
+- [Fast IP Ping](https://modrinth.com/mod/fast-ip-ping) (Speeds up servers loading in the server menu.)
+- [Fast Paintings](https://modrinth.com/mod/fast-paintings) (Fixes painting rendering, increasing their performance and allowing them to have custom models)
+- [Lithium](https://modrinth.com/mod/lithium) (Game logic/server optimization mod.)
+- [Let Me Despawn](https://modrinth.com/plugin/lmd) (Improves performance by tweaking mob despawn rules.)
+- [Sodium Culling Leaves]() (Adds culling to leaf blocks, providing a huge performance boost over vanilla.)
 
 
 ### Quality-of-life Mods:
@@ -65,6 +59,8 @@ This pack is meant to be used as a base for adding your own mods on top of it an
 - [JustZoom](https://modrinth.com/mod/just-zoom) (Adds a configurable zoom function to the camera.)
 - [Sodium Dynamic Lights](https://modrinth.com/mod/sodium-dynamic-lights) (Adds dynamic lighting. Makes a torch you hold in your hand light the place without placing it.)
 - [Puzzle](https://modrinth.com/mod/puzzle) (Adds resourcepack features and a GUI to configure OptiFine alternative)
+- [e4mc](https://modrinth.com/mod/e4mc) (Open a Lan world to anyone even people outside your network.)
+
 
 ### Resource packs:
 - [Low on fire](https://modrinth.com/resourcepack/low-on-fire) (Lowers the fire on your screen when you're on fire.)
@@ -72,8 +68,18 @@ This pack is meant to be used as a base for adding your own mods on top of it an
 - [Watch of undying](https://modrinth.com/resourcepack/watch-of-undying) (Replaces the totem of undying with a watch that is invisible when holding it in your hand giving you better visibility.)
 - [Low shield](https://modrinth.com/resourcepack/low-shield-pack) (Holds the shield lower in your hand with better visibility)
 
+
 ### Shaders:
 - [Super Duper Vanilla](https://modrinth.com/shader/super-duper-vanilla)
+
+
+### Library/Dependency Mods:
+- [Sodium Extra](https://modrinth.com/mod/sodium-extra) (Extra options for Sodium.)
+- [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) (Even more options for Sodium)
+- [Konkrete](https://modrinth.com/mod/konkrete)
+- [Cloth Config API](https://modrinth.com/mod/cloth-config)
+- [Kotlin for Forge](https://modrinth.com/mod/kotlin-for-forge)
+- [Almanac](https://modrinth.com/mod/almanac)
 
 ### Copyright notice
 If a modder of any of the mods featured in this pack wants their mod removed from this pack, please let me know and I will do so.
