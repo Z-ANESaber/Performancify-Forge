@@ -54,7 +54,8 @@ This pack is meant to be used as a base for adding your own mods on top of it an
 - [Lithium](https://modrinth.com/mod/lithium) (Game logic/server optimization mod.)
 - [Let Me Despawn](https://modrinth.com/plugin/lmd) (Improves performance by tweaking mob despawn rules.)
 - [Sodium Culling Leaves]() (Adds culling to leaf blocks, providing a huge performance boost over vanilla.)
-
+- [Remove Reloading Screen](https://modrinth.com/mod/rrls) (Makes resource packs load in the background, allowing you to do other things while waiting!)
+- [Better Beds](https://modrinth.com/mod/better-beds) (Changes the renderer of the bed to use json models instead of a block entity renderer!)
 
 ### Quality-of-life Mods:
 - [Resourcify](https://modrinth.com/mod/resourcify) (Adds a menu to install shaders and resource packs from within the game. [Screenshot](https://cdn.modrinth.com/data/4WwOrx5T/images/944d2ff71a2b998090e7acb0a6ebc06944fca490.png))
@@ -63,7 +64,7 @@ This pack is meant to be used as a base for adding your own mods on top of it an
 - [Sodium Dynamic Lights](https://modrinth.com/mod/sodium-dynamic-lights) (Adds dynamic lighting. Makes a torch you hold in your hand light the place without placing it.)
 - [Puzzle](https://modrinth.com/mod/puzzle) (Adds resourcepack features and a GUI to configure OptiFine alternative)
 - [e4mc](https://modrinth.com/mod/e4mc) (Open a Lan world to anyone even people outside your network.)
-
+- [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) (Allows you to play Minecraft in a borderless fullscreen window.)
 
 ### Resource packs:
 - [Low on fire](https://modrinth.com/resourcepack/low-on-fire) (Lowers the fire on your screen when you're on fire.)
@@ -83,6 +84,7 @@ This pack is meant to be used as a base for adding your own mods on top of it an
 - [Cloth Config API](https://modrinth.com/mod/cloth-config)
 - [Kotlin for Forge](https://modrinth.com/mod/kotlin-for-forge)
 - [Almanac](https://modrinth.com/mod/almanac)
+- [Moonlight Lib](https://modrinth.com/mod/moonlight)
 
 ### Copyright notice
 If a modder of any of the mods featured in this pack wants their mod removed from this pack, please let me know and I will do so.
