@@ -55,6 +55,7 @@ This pack is meant to be used as a base for adding your own mods on top of it an
 - [Sodium Culling Leaves]() (Adds culling to leaf blocks, providing a huge performance boost over vanilla.)
 - [Remove Reloading Screen](https://modrinth.com/mod/rrls) (Makes resource packs load in the background, allowing you to do other things while waiting!)
 - [Better Beds](https://modrinth.com/mod/better-beds) (Changes the renderer of the bed to use json models instead of a block entity renderer!)
+- [Exordium](https://modrinth.com/mod/exordium) (Render the GUI and screens at a lower framerate to improve performance of everything else)
 
 ### Quality-of-life Mods:
 - [Resourcify](https://modrinth.com/mod/resourcify) (Adds a menu to install shaders and resource packs from within the game. [Screenshot](https://cdn.modrinth.com/data/4WwOrx5T/images/944d2ff71a2b998090e7acb0a6ebc06944fca490.png))
