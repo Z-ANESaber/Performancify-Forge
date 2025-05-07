@@ -16,8 +16,8 @@
 Modrinth: https://modrinth.com/modpack/performancify-forge <br>
 CurseForge: https://www.curseforge.com/minecraft/modpacks/performancify-neo-forge
 
-## Why would you use Forge for a performance pack when Fabric is way better at that?
-This pack is meant to be used as a base for adding your own mods on top of it and lots of bigger mods don't run on Fabric. If you don't plan to add any other mods to it and instead opt for a vanilla-experience I would suggest using a Fabric Modpack like [Performium](https://modrinth.com/modpack/performium-was-taken).
+## Why would you use NeoForge for a performance pack when Fabric is way better at that?
+This pack is meant to be used as a base for adding your own mods on top of it and lots of bigger mods don't run on Fabric. If you don't plan to add any other mods to it and instead opt for a vanilla-experience I would suggest using a Fabric Modpack like [Adrenaline](https://modrinth.com/modpack/adrenaline).
 
 ## Benchmarks (Vanilla vs Performancify) on Performancify v1.0.2 Minecraft 1.20.1
 ![Comparison between fps for vanilla and performancify (vanilla is at 881 fps and performancify is at 1670 fps)](https://cdn.modrinth.com/data/cached_images/98803ca5d1e3ec18501f004bba5fe70419e00132.png)
